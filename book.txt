@@ -1,0 +1,3 @@
+Java is a popular programming language and computing platform initially developed by Sun Microsystems (now owned by Oracle Corporation) in the mid-1990s. 
+It was designed to be platform-independent, meaning that Java programs can run on any device or operating system that has a Java Virtual Machine (JVM) 
+installed, without needing to be recompiled for each platform.
